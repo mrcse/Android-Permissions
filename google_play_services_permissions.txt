@@ -1,0 +1,334 @@
+Google Play services
+Google LLC
+
+This app has access to:
+
+Device & app history
+retrieve running apps
+read sensitive log data
+
+Identity
+find accounts on the device
+add or remove accounts
+read your own contact card
+modify your own contact card
+
+Calendar
+read calendar events plus confidential information
+
+Contacts
+find accounts on the device
+read your contacts
+modify your contacts
+
+Location
+precise location (GPS and network-based)
+approximate location (network-based)
+
+SMS
+receive text messages (SMS)
+receive text messages (MMS)
+send SMS messages
+read your text messages (SMS or MMS)
+
+Phone
+read phone status and identity
+reroute outgoing calls
+read call log
+modify phone state
+directly call any phone numbers
+directly call phone numbers
+add voicemail
+
+Photos/Media/Files
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+
+Storage
+read the contents of your USB storage
+modify or delete the contents of your USB storage
+
+Camera
+take pictures and videos
+
+Microphone
+record audio
+
+Wi-Fi connection information
+view Wi-Fi connections
+
+Device ID & call information
+read phone status and identity
+
+Wearable sensors/Activity data
+body sensors (like heart rate monitors)
+
+Phone
+read phone status and identity
+reroute outgoing calls
+read call log
+modify phone state
+directly call any phone numbers
+directly call phone numbers
+
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+
+SMS
+read your text messages (SMS or MMS)
+receive text messages (MMS)
+receive text messages (SMS)
+send SMS messages
+
+Phone
+directly call phone numbers
+directly call any phone numbers
+modify phone state
+reroute outgoing calls
+read call log
+read phone status and identity
+add voicemail
+
+Phone
+directly call phone numbers
+directly call any phone numbers
+modify phone state
+reroute outgoing calls
+read call log
+read phone status and identity
+
+Phone
+directly call phone numbers
+directly call any phone numbers
+modify phone state
+reroute outgoing calls
+read call log
+read phone status and identity
+write call log
+add voicemail
+
+Device & app history
+retrieve system internal state
+Identity
+find accounts on the device
+add or remove accounts
+
+Contacts
+find accounts on the device
+read your contacts
+
+Phone
+read phone status and identity
+
+Other
+interact across users
+read subscribed feeds
+write subscribed feeds
+capture video output
+capture audio output
+Interact with update and recovery system
+Send broadcasts to Google Play.
+Provide a trust agent.
+Read Google settings
+Modify Google settings
+update component usage statistics
+bind to a notification listener service
+retrieve app ops statistics
+modify app ops statistics
+Hotword detection
+manage voice keyphrases
+retrieve running apps
+add or remove a device admin
+listen for observations on network conditions
+score networks
+provide an in-call user experience
+manage preferences and permissions for USB devices
+allow Bluetooth pairing by Application
+reset display timeout
+Audio Routing
+start a task from recents
+manage activity stacks
+capture secure video output
+download files without notification
+modify network usage accounting
+set time
+control system backup and restore
+read voicemail
+receive data from Internet
+read frame buffer
+read your social stream
+write to your social stream
+full network access
+use accounts on the device
+draw over other apps
+run at startup
+read Google service configuration
+measure app storage space
+send sticky broadcast
+control vibration
+read sync settings
+modify system settings
+toggle sync on and off
+create accounts and set passwords
+control Near Field Communication
+prevent device from sleeping
+view network connections
+control flashlight
+connect and disconnect from Wi-Fi
+pair with Bluetooth devices
+access Bluetooth settings
+allow Wi-Fi Multicast reception
+install shortcuts
+disable your screen lock
+change network connectivity
+reorder running apps
+change your audio settings
+set time zone
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+allow Wi-Fi Multicast reception
+connect and disconnect from Wi-Fi
+disable your screen lock
+control flashlight
+measure app storage space
+full network access
+change your audio settings
+control Near Field Communication
+read sync settings
+run at startup
+reorder running apps
+set time zone
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+install shortcuts
+read Google service configuration
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+allow Wi-Fi Multicast reception
+connect and disconnect from Wi-Fi
+disable your screen lock
+control flashlight
+measure app storage space
+full network access
+change your audio settings
+control Near Field Communication
+read sync settings
+run at startup
+reorder running apps
+set time zone
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+read Google service configuration
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+allow Wi-Fi Multicast reception
+connect and disconnect from Wi-Fi
+disable your screen lock
+full network access
+control Near Field Communication
+read sync settings
+run at startup
+set time zone
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+read Google service configuration
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+allow Wi-Fi Multicast reception
+connect and disconnect from Wi-Fi
+disable your screen lock
+full network access
+control Near Field Communication
+read sync settings
+run at startup
+set time zone
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+install shortcuts
+read Google service configuration
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+allow Wi-Fi Multicast reception
+connect and disconnect from Wi-Fi
+disable your screen lock
+full network access
+control Near Field Communication
+read sync settings
+run at startup
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+install shortcuts
+read Google service configuration
+view network connections
+create accounts and set passwords
+pair with Bluetooth devices
+access Bluetooth settings
+send sticky broadcast
+change network connectivity
+allow Wi-Fi Multicast reception
+connect and disconnect from Wi-Fi
+disable your screen lock
+full network access
+control Near Field Communication
+read sync settings
+run at startup
+draw over other apps
+use accounts on the device
+control vibration
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+read Google service configuration
+view network connections
+create accounts and set passwords
+connect and disconnect from Wi-Fi
+full network access
+read sync settings
+run at startup
+draw over other apps
+use accounts on the device
+prevent device from sleeping
+modify system settings
+toggle sync on and off
+read Google service configuration
