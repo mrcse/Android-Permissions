@@ -1,5 +1,6 @@
 android.permission.REAL_GET_TASKS
-android:name="android.permission.ACCESS_NOTIFICATION_POLICY"
+android.permission.USE_FULL_SCREEN_INTENT
+android.permission.ACCESS_NOTIFICATION_POLICY
 android.permission.ACCESS_CACHE_FILESYSTEM
 android.permission.REMOTE_AUDIO_PLAYBACK
 com.amazon.client.metrics.nexus.permission.CANCEL_SCHEDULED_UPLOAD
